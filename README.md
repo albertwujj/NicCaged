@@ -2,7 +2,7 @@
 
 Incremental/Clicker Game
 
-[Play now](https://www.fluxschedule.io/NicCaged)
+[Play now](http://www.fluxschedule.io/NicCaged)
 
 
 Written in Twine Harlowe
