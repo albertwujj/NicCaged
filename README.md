@@ -1,8 +1,8 @@
 # NicCaged
 
-## Nic Caged Incremental/Clicker
+Incremental/Clicker Game
 
-Play now at fluxschedule.io/NicCaged . 
+[Play now](https://www.fluxschedule.io/NicCaged)
 
 
 Written in Twine Harlowe
